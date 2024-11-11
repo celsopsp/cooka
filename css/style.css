@@ -24,14 +24,18 @@ h5 {
 }
 
 img {
-  width: 30%;
-  display: block;  /* Faz a imagem se comportar como um bloco */
-  margin: 0 auto;  /* Centraliza a imagem */
-}
+  width: 30%;}
 
-p3 { /* Corrigi a classe p3 */
+p3 { 
   font-family: "Nerko One", sans-serif;
 }
 p6{
+  font-size: 50px;
+}
+p4{
   font-size: 40px;
+}
+p9{
+  display: block;  /* Faz a imagem se comportar como um bloco */
+  margin:  1 auto;  /* Centraliza a imagem */
 }
